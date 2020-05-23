@@ -8,7 +8,10 @@ Aplikasi Zodiak Weton Berbasis Mobile yang menggunakan Android Kotlin berguna un
 * Open Android Studio
 
 # Demo Application
-* [Covid-19 via Google Drive](https://drive.google.com/file/d/103ymq_mZxcJqMXjvD8eFkcI2AauaAF_m/view?usp=sharing)
+* [Mediafire](https://www.mediafire.com/file/yx4ws56n4q4v93u/ZodiakWeton-Kotlin.apk/file)
+* [Google Drive](https://drive.google.com/file/d/1xolJgOCAAfZFsMNMB4YAl-MbYmFRIi-d/view?usp=sharing)
+* [Dropbox](https://www.dropbox.com/s/24bqdpa3zfoyrol/ZodiakWeton-Kotlin.apk?dl=0)
+* [Mega](https://mega.nz/file/7JI0CK7Z#YVuJ6jT2lKBz1SItQRbUOiReaHQVafDaj2zrpNb552I)
 
 # Documentation & Resources
 * [Android Studio Documentation](https://developer.android.com/docs)
