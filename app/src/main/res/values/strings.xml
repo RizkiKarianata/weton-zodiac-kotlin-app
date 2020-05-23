@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ZodiakWeton</string>
+    <string name="zodiak_weton_splash_screen">Zodiak Weton Splash Screen</string>
+    <string name="zodiak_weton">Zodiak Weton</string>
+    <string name="coretan_code">Coretan Code</string>
+    <string name="jum_at_legi_1_november_2002">Jum\'at Legi, 1 November 2002</string>
+    <string name="weton_tanggal_lahir">Weton, Tanggal Lahir</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="moehammad_rizki_karianata">Moehammad Rizki Karianata</string>
+    <string name="usia">Usia</string>
+    <string name="_12_tahun_2_bulan_0_hari">12 Tahun 2 Bulan 0 Hari</string>
+    <string name="ulang_tahun">Ulang Tahun</string>
+    <string name="_0_bulan_0_hari">0 Bulan 0 Hari</string>
+    <string name="zodiak">Zodiak</string>
+    <string name="scorpio">Scorpio</string>
+    <string name="coba_lagi">Coba Lagi</string>
+    <string name="_01_11_2002">01-11-2002</string>
+    <string name="lihat_hasil">Lihat Hasil</string>
+    <string name="coretan_codee">Coretan Code</string>
+    <string name="zodiak_wetonn">Zodiak Weton</string>
+    <string name="home_picture">Home Picture</string>
+</resources>
