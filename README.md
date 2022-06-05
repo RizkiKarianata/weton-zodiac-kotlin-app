@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to the Weton Zodiac Kotlin App! 👋 </h1>
+<h1 align="center">Welcome to Weton Zodiac Kotlin App! 👋 </h1>
 
 <p align="center">Weton Zodiac Kotlin App is an application that is useful for finding out a person's zodiac and weton just by using their date of birth. Built using Kotlin. 💖 </p>
 
